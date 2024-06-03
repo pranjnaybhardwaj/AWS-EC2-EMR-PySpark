@@ -1,1 +1,1 @@
-# AWS-EC2-EMR-PySpark
+# AWS-EC2-EMR-HQL-PySpark
